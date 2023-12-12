@@ -1,0 +1,89 @@
+ var dataFromJSON =  {
+    "data": [
+        {
+            "en": "geography",
+            "zh": "地理",
+            "img": "地理.png",
+            "en4m2mp3": "地理_en4f.mp3",
+            "zh4m2mp3": "地理_zh4f.mp3"
+        },
+        {
+            "en": "ghost",
+            "zh": "鬼怪",
+            "img": "鬼怪.png",
+            "en4m2mp3": "鬼怪_en4f.mp3",
+            "zh4m2mp3": "鬼怪_zh4f.mp3"
+        },
+        {
+            "en": "gloves",
+            "zh": "手套",
+            "img": "手套.png",
+            "en4m2mp3": "手套_en4f.mp3",
+            "zh4m2mp3": "手套_zh4f.mp3"
+        },
+        {
+            "en": "go",
+            "zh": "去",
+            "img": "去.png",
+            "en4m2mp3": "去_en4f.mp3",
+            "zh4m2mp3": "去_zh4f.mp3"
+        },
+        {
+            "en": "golf",
+            "zh": "高尔夫",
+            "img": "高尔夫.png",
+            "en4m2mp3": "高尔夫_en4f.mp3",
+            "zh4m2mp3": "高尔夫_zh4f.mp3"
+        },
+        {
+            "en": "grandfather",
+            "zh": "祖父",
+            "img": "祖父.png",
+            "en4m2mp3": "祖父_en4f.mp3",
+            "zh4m2mp3": "祖父_zh4f.mp3"
+        },
+        {
+            "en": "grandmother",
+            "zh": "祖母",
+            "img": "祖母.png",
+            "en4m2mp3": "祖母_en4f.mp3",
+            "zh4m2mp3": "祖母_zh4f.mp3"
+        },
+        {
+            "en": "grandparents",
+            "zh": "祖父母",
+            "img": "祖父母.png",
+            "en4m2mp3": "祖父母_en4f.mp3",
+            "zh4m2mp3": "祖父母_zh4f.mp3"
+        },
+        {
+            "en": "grape",
+            "zh": "葡萄",
+            "img": "葡萄.png",
+            "en4m2mp3": "葡萄_en4f.mp3",
+            "zh4m2mp3": "葡萄_zh4f.mp3"
+        },
+        {
+            "en": "gray",
+            "zh": "灰色",
+            "img": "灰色.png",
+            "en4m2mp3": "灰色_en4f.mp3",
+            "zh4m2mp3": "灰色_zh4f.mp3"
+        },
+        {
+            "en": "green",
+            "zh": "绿色",
+            "img": "绿色.png",
+            "en4m2mp3": "绿色_en4f.mp3",
+            "zh4m2mp3": "绿色_zh4f.mp3"
+        },
+        {
+            "en": "gymnastics",
+            "zh": "体操",
+            "img": "体操.png",
+            "en4m2mp3": "体操_en4f.mp3",
+            "zh4m2mp3": "体操_zh4f.mp3"
+        }
+    ],
+    "src": "https://disk.17121.top/"
+}

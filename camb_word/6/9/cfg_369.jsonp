@@ -1,0 +1,82 @@
+ var dataFromJSON =  {
+    "data": [
+        {
+            "en": "lake",
+            "zh": "湖泊",
+            "img": "湖泊.png",
+            "en4m2mp3": "湖泊_en4f.mp3",
+            "zh4m2mp3": "湖泊_zh4f.mp3"
+        },
+        {
+            "en": "land",
+            "zh": "土地",
+            "img": "土地.png",
+            "en4m2mp3": "土地_en4f.mp3",
+            "zh4m2mp3": "土地_zh4f.mp3"
+        },
+        {
+            "en": "latitude",
+            "zh": "纬度",
+            "img": "纬度.png",
+            "en4m2mp3": "纬度_en4f.mp3",
+            "zh4m2mp3": "纬度_zh4f.mp3"
+        },
+        {
+            "en": "leaf",
+            "zh": "叶子",
+            "img": "叶子.png",
+            "en4m2mp3": "叶子_en4f.mp3",
+            "zh4m2mp3": "叶子_zh4f.mp3"
+        },
+        {
+            "en": "leg",
+            "zh": "腿",
+            "img": "腿.png",
+            "en4m2mp3": "腿_en4f.mp3",
+            "zh4m2mp3": "腿_zh4f.mp3"
+        },
+        {
+            "en": "Leo",
+            "zh": "狮子座",
+            "img": "狮子座.png",
+            "en4m2mp3": "狮子座_en4f.mp3",
+            "zh4m2mp3": "狮子座_zh4f.mp3"
+        },
+        {
+            "en": "Libra",
+            "zh": "天秤座",
+            "img": "天秤座.png",
+            "en4m2mp3": "天秤座_en4f.mp3",
+            "zh4m2mp3": "天秤座_zh4f.mp3"
+        },
+        {
+            "en": "library",
+            "zh": "图书馆",
+            "img": "图书馆.png",
+            "en4m2mp3": "图书馆_en4f.mp3",
+            "zh4m2mp3": "图书馆_zh4f.mp3"
+        },
+        {
+            "en": "light",
+            "zh": "轻的",
+            "img": "轻的.png",
+            "en4m2mp3": "轻的_en4f.mp3",
+            "zh4m2mp3": "轻的_zh4f.mp3"
+        },
+        {
+            "en": "lion",
+            "zh": "狮子",
+            "img": "狮子.png",
+            "en4m2mp3": "狮子_en4f.mp3",
+            "zh4m2mp3": "狮子_zh4f.mp3"
+        },
+        {
+            "en": "longitude",
+            "zh": "经度",
+            "img": "经度.png",
+            "en4m2mp3": "经度_en4f.mp3",
+            "zh4m2mp3": "经度_zh4f.mp3"
+        }
+    ],
+    "src": "https://disk.17121.top/"
+}

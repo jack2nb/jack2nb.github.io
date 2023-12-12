@@ -1,0 +1,96 @@
+ var dataFromJSON =  {
+    "data": [
+        {
+            "en": "oboe",
+            "zh": "双簧管",
+            "img": "双簧管.png",
+            "en4m2mp3": "双簧管_en4f.mp3",
+            "zh4m2mp3": "双簧管_zh4f.mp3"
+        },
+        {
+            "en": "oboist",
+            "zh": "双簧管演奏家",
+            "img": "双簧管演奏家.png",
+            "en4m2mp3": "双簧管演奏家_en4f.mp3",
+            "zh4m2mp3": "双簧管演奏家_zh4f.mp3"
+        },
+        {
+            "en": "Oceania",
+            "zh": "大洋洲",
+            "img": "大洋洲.png",
+            "en4m2mp3": "大洋洲_en4f.mp3",
+            "zh4m2mp3": "大洋洲_zh4f.mp3"
+        },
+        {
+            "en": "ocean",
+            "zh": "海洋",
+            "img": "海洋.png",
+            "en4m2mp3": "海洋_en4f.mp3",
+            "zh4m2mp3": "海洋_zh4f.mp3"
+        },
+        {
+            "en": "October",
+            "zh": "十月",
+            "img": "十月.png",
+            "en4m2mp3": "十月_en4f.mp3",
+            "zh4m2mp3": "十月_zh4f.mp3"
+        },
+        {
+            "en": "off",
+            "zh": "关",
+            "img": "关.png",
+            "en4m2mp3": "关_en4f.mp3",
+            "zh4m2mp3": "关_zh4f.mp3"
+        },
+        {
+            "en": "old",
+            "zh": "旧的",
+            "img": "旧的.png",
+            "en4m2mp3": "旧的_en4f.mp3",
+            "zh4m2mp3": "旧的_zh4f.mp3"
+        },
+        {
+            "en": "on",
+            "zh": "开",
+            "img": "开.png",
+            "en4m2mp3": "开_en4f.mp3",
+            "zh4m2mp3": "开_zh4f.mp3"
+        },
+        {
+            "en": "one",
+            "zh": "一",
+            "img": "一.png",
+            "en4m2mp3": "一_en4f.mp3",
+            "zh4m2mp3": "一_zh4f.mp3"
+        },
+        {
+            "en": "onion",
+            "zh": "洋葱",
+            "img": "洋葱.png",
+            "en4m2mp3": "洋葱_en4f.mp3",
+            "zh4m2mp3": "洋葱_zh4f.mp3"
+        },
+        {
+            "en": "open",
+            "zh": "打开",
+            "img": "打开.png",
+            "en4m2mp3": "打开_en4f.mp3",
+            "zh4m2mp3": "打开_zh4f.mp3"
+        },
+        {
+            "en": "orange",
+            "zh": "橙子",
+            "img": "橙子.png",
+            "en4m2mp3": "橙子_en4f.mp3",
+            "zh4m2mp3": "橙子_zh4f.mp3"
+        },
+        {
+            "en": "owl",
+            "zh": "猫头鹰",
+            "img": "猫头鹰.png",
+            "en4m2mp3": "猫头鹰_en4f.mp3",
+            "zh4m2mp3": "猫头鹰_zh4f.mp3"
+        }
+    ],
+    "src": "https://disk.17121.top/"
+}

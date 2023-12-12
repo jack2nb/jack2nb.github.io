@@ -1,0 +1,89 @@
+ var dataFromJSON =  {
+    "data": [
+        {
+            "en": "rainbow",
+            "zh": "彩虹",
+            "img": "彩虹.png",
+            "en4m2mp3": "彩虹_en4f.mp3",
+            "zh4m2mp3": "彩虹_zh4f.mp3"
+        },
+        {
+            "en": "rainforest",
+            "zh": "雨林",
+            "img": "雨林.png",
+            "en4m2mp3": "雨林_en4f.mp3",
+            "zh4m2mp3": "雨林_zh4f.mp3"
+        },
+        {
+            "en": "raining",
+            "zh": "下雨",
+            "img": "下雨.png",
+            "en4m2mp3": "下雨_en4f.mp3",
+            "zh4m2mp3": "下雨_zh4f.mp3"
+        },
+        {
+            "en": "rectangle",
+            "zh": "长方形",
+            "img": "长方形.png",
+            "en4m2mp3": "长方形_en4f.mp3",
+            "zh4m2mp3": "长方形_zh4f.mp3"
+        },
+        {
+            "en": "red",
+            "zh": "红色",
+            "img": "红色.png",
+            "en4m2mp3": "红色_en4f.mp3",
+            "zh4m2mp3": "红色_zh4f.mp3"
+        },
+        {
+            "en": "reindeer",
+            "zh": "驯鹿",
+            "img": "驯鹿.png",
+            "en4m2mp3": "驯鹿_en4f.mp3",
+            "zh4m2mp3": "驯鹿_zh4f.mp3"
+        },
+        {
+            "en": "restaurant",
+            "zh": "饭店",
+            "img": "饭店.png",
+            "en4m2mp3": "饭店_en4f.mp3",
+            "zh4m2mp3": "饭店_zh4f.mp3"
+        },
+        {
+            "en": "river",
+            "zh": "河流",
+            "img": "河流.png",
+            "en4m2mp3": "河流_en4f.mp3",
+            "zh4m2mp3": "河流_zh4f.mp3"
+        },
+        {
+            "en": "robot",
+            "zh": "机器人",
+            "img": "机器人.png",
+            "en4m2mp3": "机器人_en4f.mp3",
+            "zh4m2mp3": "机器人_zh4f.mp3"
+        },
+        {
+            "en": "rooster",
+            "zh": "公鸡",
+            "img": "公鸡.png",
+            "en4m2mp3": "公鸡_en4f.mp3",
+            "zh4m2mp3": "公鸡_zh4f.mp3"
+        },
+        {
+            "en": "rowing",
+            "zh": "划船",
+            "img": "划船.png",
+            "en4m2mp3": "划船_en4f.mp3",
+            "zh4m2mp3": "划船_zh4f.mp3"
+        },
+        {
+            "en": "run",
+            "zh": "跑",
+            "img": "跑.png",
+            "en4m2mp3": "跑_en4f.mp3",
+            "zh4m2mp3": "跑_zh4f.mp3"
+        }
+    ],
+    "src": "https://disk.17121.top/"
+}

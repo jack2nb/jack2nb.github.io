@@ -1,0 +1,61 @@
+ var dataFromJSON =  {
+    "data": [
+        {
+            "en": "neck",
+            "zh": "颈部",
+            "img": "颈部.png",
+            "en4m2mp3": "颈部_en4f.mp3",
+            "zh4m2mp3": "颈部_zh4f.mp3"
+        },
+        {
+            "en": "new",
+            "zh": "新的",
+            "img": "新的.png",
+            "en4m2mp3": "新的_en4f.mp3",
+            "zh4m2mp3": "新的_zh4f.mp3"
+        },
+        {
+            "en": "nine",
+            "zh": "九",
+            "img": "九.png",
+            "en4m2mp3": "九_en4f.mp3",
+            "zh4m2mp3": "九_zh4f.mp3"
+        },
+        {
+            "en": "north",
+            "zh": "北",
+            "img": "北.png",
+            "en4m2mp3": "北_en4f.mp3",
+            "zh4m2mp3": "北_zh4f.mp3"
+        },
+        {
+            "en": "now",
+            "zh": "现在",
+            "img": "现在.png",
+            "en4m2mp3": "现在_en4f.mp3",
+            "zh4m2mp3": "现在_zh4f.mp3"
+        },
+        {
+            "en": "nose",
+            "zh": "鼻子",
+            "img": "鼻子.png",
+            "en4m2mp3": "鼻子_en4f.mp3",
+            "zh4m2mp3": "鼻子_zh4f.mp3"
+        },
+        {
+            "en": "November",
+            "zh": "十一月",
+            "img": "十一月.png",
+            "en4m2mp3": "十一月_en4f.mp3",
+            "zh4m2mp3": "十一月_zh4f.mp3"
+        },
+        {
+            "en": "number",
+            "zh": "数字",
+            "img": "数字.png",
+            "en4m2mp3": "数字_en4f.mp3",
+            "zh4m2mp3": "数字_zh4f.mp3"
+        }
+    ],
+    "src": "https://disk.17121.top/"
+}

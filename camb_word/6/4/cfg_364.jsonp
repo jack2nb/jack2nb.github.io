@@ -1,0 +1,82 @@
+ var dataFromJSON =  {
+    "data": [
+        {
+            "en": "ears",
+            "zh": "耳朵",
+            "img": "耳朵.png",
+            "en4m2mp3": "耳朵_en4f.mp3",
+            "zh4m2mp3": "耳朵_zh4f.mp3"
+        },
+        {
+            "en": "Earth",
+            "zh": "地球",
+            "img": "地球.png",
+            "en4m2mp3": "地球_en4f.mp3",
+            "zh4m2mp3": "地球_zh4f.mp3"
+        },
+        {
+            "en": "east",
+            "zh": "东面",
+            "img": "东面.png",
+            "en4m2mp3": "东面_en4f.mp3",
+            "zh4m2mp3": "东面_zh4f.mp3"
+        },
+        {
+            "en": "eight",
+            "zh": "八",
+            "img": "八.png",
+            "en4m2mp3": "八_en4f.mp3",
+            "zh4m2mp3": "八_zh4f.mp3"
+        },
+        {
+            "en": "empty",
+            "zh": "空的",
+            "img": "空的.png",
+            "en4m2mp3": "空的_en4f.mp3",
+            "zh4m2mp3": "空的_zh4f.mp3"
+        },
+        {
+            "en": "engineer",
+            "zh": "工程师",
+            "img": "工程师.png",
+            "en4m2mp3": "工程师_en4f.mp3",
+            "zh4m2mp3": "工程师_zh4f.mp3"
+        },
+        {
+            "en": "English",
+            "zh": "英语课",
+            "img": "英语课.png",
+            "en4m2mp3": "英语课_en4f.mp3",
+            "zh4m2mp3": "英语课_zh4f.mp3"
+        },
+        {
+            "en": "equestrian",
+            "zh": "马术",
+            "img": "马术.png",
+            "en4m2mp3": "马术_en4f.mp3",
+            "zh4m2mp3": "马术_zh4f.mp3"
+        },
+        {
+            "en": "Europe",
+            "zh": "欧洲",
+            "img": "欧洲.png",
+            "en4m2mp3": "欧洲_en4f.mp3",
+            "zh4m2mp3": "欧洲_zh4f.mp3"
+        },
+        {
+            "en": "excited",
+            "zh": "兴奋的",
+            "img": "兴奋的.png",
+            "en4m2mp3": "兴奋的_en4f.mp3",
+            "zh4m2mp3": "兴奋的_zh4f.mp3"
+        },
+        {
+            "en": "eyes",
+            "zh": "眼睛",
+            "img": "眼睛.png",
+            "en4m2mp3": "眼睛_en4f.mp3",
+            "zh4m2mp3": "眼睛_zh4f.mp3"
+        }
+    ],
+    "src": "https://disk.17121.top/"
+}

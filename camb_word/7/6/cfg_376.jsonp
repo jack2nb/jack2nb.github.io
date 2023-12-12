@@ -1,0 +1,152 @@
+ var dataFromJSON =  {
+    "data": [
+        {
+            "en": "tall",
+            "zh": "高的",
+            "img": "高的.png",
+            "en4m2mp3": "高的_en4f.mp3",
+            "zh4m2mp3": "高的_zh4f.mp3"
+        },
+        {
+            "en": "teacher",
+            "zh": "教师",
+            "img": "教师.png",
+            "en4m2mp3": "教师_en4f.mp3",
+            "zh4m2mp3": "教师_zh4f.mp3"
+        },
+        {
+            "en": "tooth",
+            "zh": "牙",
+            "img": "牙.png",
+            "en4m2mp3": "牙_en4f.mp3",
+            "zh4m2mp3": "牙_zh4f.mp3"
+        },
+        {
+            "en": "ten",
+            "zh": "数字10",
+            "img": "数字10.png",
+            "en4m2mp3": "数字10_en4f.mp3",
+            "zh4m2mp3": "数字10_zh4f.mp3"
+        },
+        {
+            "en": "tennis",
+            "zh": "网球",
+            "img": "网球.png",
+            "en4m2mp3": "网球_en4f.mp3",
+            "zh4m2mp3": "网球_zh4f.mp3"
+        },
+        {
+            "en": "theater",
+            "zh": "剧院",
+            "img": "剧院.png",
+            "en4m2mp3": "剧院_en4f.mp3",
+            "zh4m2mp3": "剧院_zh4f.mp3"
+        },
+        {
+            "en": "thirsty",
+            "zh": "渴的",
+            "img": "渴的.png",
+            "en4m2mp3": "渴的_en4f.mp3",
+            "zh4m2mp3": "渴的_zh4f.mp3"
+        },
+        {
+            "en": "three",
+            "zh": "数字3",
+            "img": "数字3.png",
+            "en4m2mp3": "数字3_en4f.mp3",
+            "zh4m2mp3": "数字3_zh4f.mp3"
+        },
+        {
+            "en": "Thursday",
+            "zh": "星期四",
+            "img": "星期四.png",
+            "en4m2mp3": "星期四_en4f.mp3",
+            "zh4m2mp3": "星期四_zh4f.mp3"
+        },
+        {
+            "en": "tiger",
+            "zh": "老虎",
+            "img": "老虎.png",
+            "en4m2mp3": "老虎_en4f.mp3",
+            "zh4m2mp3": "老虎_zh4f.mp3"
+        },
+        {
+            "en": "tired",
+            "zh": "累的",
+            "img": "累的.png",
+            "en4m2mp3": "累的_en4f.mp3",
+            "zh4m2mp3": "累的_zh4f.mp3"
+        },
+        {
+            "en": "tomato",
+            "zh": "西红柿",
+            "img": "西红柿.png",
+            "en4m2mp3": "西红柿_en4f.mp3",
+            "zh4m2mp3": "西红柿_zh4f.mp3"
+        },
+        {
+            "en": "tongue",
+            "zh": "舌头",
+            "img": "舌头.png",
+            "en4m2mp3": "舌头_en4f.mp3",
+            "zh4m2mp3": "舌头_zh4f.mp3"
+        },
+        {
+            "en": "town",
+            "zh": "小镇",
+            "img": "小镇.png",
+            "en4m2mp3": "小镇_en4f.mp3",
+            "zh4m2mp3": "小镇_zh4f.mp3"
+        },
+        {
+            "en": "toy",
+            "zh": "玩具",
+            "img": "玩具.png",
+            "en4m2mp3": "玩具_en4f.mp3",
+            "zh4m2mp3": "玩具_zh4f.mp3"
+        },
+        {
+            "en": "train",
+            "zh": "火车",
+            "img": "火车.png",
+            "en4m2mp3": "火车_en4f.mp3",
+            "zh4m2mp3": "火车_zh4f.mp3"
+        },
+        {
+            "en": "transportation",
+            "zh": "交通",
+            "img": "交通.png",
+            "en4m2mp3": "交通_en4f.mp3",
+            "zh4m2mp3": "交通_zh4f.mp3"
+        },
+        {
+            "en": "triangle",
+            "zh": "三角形",
+            "img": "三角形.png",
+            "en4m2mp3": "三角形_en4f.mp3",
+            "zh4m2mp3": "三角形_zh4f.mp3"
+        },
+        {
+            "en": "T-shirt",
+            "zh": "T恤",
+            "img": "T恤.png",
+            "en4m2mp3": "T恤_en4f.mp3",
+            "zh4m2mp3": "T恤_zh4f.mp3"
+        },
+        {
+            "en": "Tuesday",
+            "zh": "星期二",
+            "img": "星期二.png",
+            "en4m2mp3": "星期二_en4f.mp3",
+            "zh4m2mp3": "星期二_zh4f.mp3"
+        },
+        {
+            "en": "two",
+            "zh": "数字2",
+            "img": "数字2.png",
+            "en4m2mp3": "数字2_en4f.mp3",
+            "zh4m2mp3": "数字2_zh4f.mp3"
+        }
+    ],
+    "src": "https://disk.17121.top/"
+}

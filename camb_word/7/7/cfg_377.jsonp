@@ -1,0 +1,75 @@
+ var dataFromJSON =  {
+    "data": [
+        {
+            "en": "uncle",
+            "zh": "叔叔",
+            "img": "叔叔.png",
+            "en4m2mp3": "叔叔_en4f.mp3",
+            "zh4m2mp3": "叔叔_zh4f.mp3"
+        },
+        {
+            "en": "up",
+            "zh": "向上",
+            "img": "向上.png",
+            "en4m2mp3": "向上_en4f.mp3",
+            "zh4m2mp3": "向上_zh4f.mp3"
+        },
+        {
+            "en": "vacation",
+            "zh": "假期",
+            "img": "假期.png",
+            "en4m2mp3": "假期_en4f.mp3",
+            "zh4m2mp3": "假期_zh4f.mp3"
+        },
+        {
+            "en": "valley",
+            "zh": "山谷",
+            "img": "山谷.png",
+            "en4m2mp3": "山谷_en4f.mp3",
+            "zh4m2mp3": "山谷_zh4f.mp3"
+        },
+        {
+            "en": "vampire",
+            "zh": "吸血鬼",
+            "img": "吸血鬼.png",
+            "en4m2mp3": "吸血鬼_en4f.mp3",
+            "zh4m2mp3": "吸血鬼_zh4f.mp3"
+        },
+        {
+            "en": "Venus",
+            "zh": "金星",
+            "img": "金星.png",
+            "en4m2mp3": "金星_en4f.mp3",
+            "zh4m2mp3": "金星_zh4f.mp3"
+        },
+        {
+            "en": "vest",
+            "zh": "背心",
+            "img": "背心.png",
+            "en4m2mp3": "背心_en4f.mp3",
+            "zh4m2mp3": "背心_zh4f.mp3"
+        },
+        {
+            "en": "vet",
+            "zh": "兽医",
+            "img": "兽医.png",
+            "en4m2mp3": "兽医_en4f.mp3",
+            "zh4m2mp3": "兽医_zh4f.mp3"
+        },
+        {
+            "en": "violin",
+            "zh": "小提琴",
+            "img": "小提琴.png",
+            "en4m2mp3": "小提琴_en4f.mp3",
+            "zh4m2mp3": "小提琴_zh4f.mp3"
+        },
+        {
+            "en": "volleyball",
+            "zh": "排球",
+            "img": "排球.png",
+            "en4m2mp3": "排球_en4f.mp3",
+            "zh4m2mp3": "排球_zh4f.mp3"
+        }
+    ],
+    "src": "https://disk.17121.top/"
+}

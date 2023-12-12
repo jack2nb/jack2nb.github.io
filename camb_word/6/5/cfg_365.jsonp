@@ -1,0 +1,145 @@
+ var dataFromJSON =  {
+    "data": [
+        {
+            "en": "factory",
+            "zh": "工厂",
+            "img": "工厂.png",
+            "en4m2mp3": "工厂_en4f.mp3",
+            "zh4m2mp3": "工厂_zh4f.mp3"
+        },
+        {
+            "en": "fairy",
+            "zh": "小精灵",
+            "img": "小精灵.png",
+            "en4m2mp3": "小精灵_en4f.mp3",
+            "zh4m2mp3": "小精灵_zh4f.mp3"
+        },
+        {
+            "en": "fall",
+            "zh": "落下",
+            "img": "落下.png",
+            "en4m2mp3": "落下_en4f.mp3",
+            "zh4m2mp3": "落下_zh4f.mp3"
+        },
+        {
+            "en": "family",
+            "zh": "家庭",
+            "img": "家庭.png",
+            "en4m2mp3": "家庭_en4f.mp3",
+            "zh4m2mp3": "家庭_zh4f.mp3"
+        },
+        {
+            "en": "farm",
+            "zh": "农场",
+            "img": "农场.png",
+            "en4m2mp3": "农场_en4f.mp3",
+            "zh4m2mp3": "农场_zh4f.mp3"
+        },
+        {
+            "en": "farmer",
+            "zh": "农夫",
+            "img": "农夫.png",
+            "en4m2mp3": "农夫_en4f.mp3",
+            "zh4m2mp3": "农夫_zh4f.mp3"
+        },
+        {
+            "en": "fast",
+            "zh": "快的",
+            "img": "快的.png",
+            "en4m2mp3": "快的_en4f.mp3",
+            "zh4m2mp3": "快的_zh4f.mp3"
+        },
+        {
+            "en": "father",
+            "zh": "父亲",
+            "img": "父亲.png",
+            "en4m2mp3": "父亲_en4f.mp3",
+            "zh4m2mp3": "父亲_zh4f.mp3"
+        },
+        {
+            "en": "February",
+            "zh": "二月",
+            "img": "二月.png",
+            "en4m2mp3": "二月_en4f.mp3",
+            "zh4m2mp3": "二月_zh4f.mp3"
+        },
+        {
+            "en": "feel",
+            "zh": "感受",
+            "img": "感受.png",
+            "en4m2mp3": "感受_en4f.mp3",
+            "zh4m2mp3": "感受_zh4f.mp3"
+        },
+        {
+            "en": "field",
+            "zh": "田野",
+            "img": "田野.png",
+            "en4m2mp3": "田野_en4f.mp3",
+            "zh4m2mp3": "田野_zh4f.mp3"
+        },
+        {
+            "en": "firefighter",
+            "zh": "消防员",
+            "img": "消防员.png",
+            "en4m2mp3": "消防员_en4f.mp3",
+            "zh4m2mp3": "消防员_zh4f.mp3"
+        },
+        {
+            "en": "flower",
+            "zh": "花朵",
+            "img": "花朵.png",
+            "en4m2mp3": "花朵_en4f.mp3",
+            "zh4m2mp3": "花朵_zh4f.mp3"
+        },
+        {
+            "en": "fly",
+            "zh": "飞",
+            "img": "飞.png",
+            "en4m2mp3": "飞_en4f.mp3",
+            "zh4m2mp3": "飞_zh4f.mp3"
+        },
+        {
+            "en": "foggy",
+            "zh": "有雾的",
+            "img": "有雾的.png",
+            "en4m2mp3": "有雾的_en4f.mp3",
+            "zh4m2mp3": "有雾的_zh4f.mp3"
+        },
+        {
+            "en": "forest",
+            "zh": "森林",
+            "img": "森林.png",
+            "en4m2mp3": "森林_en4f.mp3",
+            "zh4m2mp3": "森林_zh4f.mp3"
+        },
+        {
+            "en": "four",
+            "zh": "四",
+            "img": "四.png",
+            "en4m2mp3": "四_en4f.mp3",
+            "zh4m2mp3": "四_zh4f.mp3"
+        },
+        {
+            "en": "Friday",
+            "zh": "星期五",
+            "img": "星期五.png",
+            "en4m2mp3": "星期五_en4f.mp3",
+            "zh4m2mp3": "星期五_zh4f.mp3"
+        },
+        {
+            "en": "frog",
+            "zh": "青蛙",
+            "img": "青蛙.png",
+            "en4m2mp3": "青蛙_en4f.mp3",
+            "zh4m2mp3": "青蛙_zh4f.mp3"
+        },
+        {
+            "en": "full",
+            "zh": "满的",
+            "img": "满的.png",
+            "en4m2mp3": "满的_en4f.mp3",
+            "zh4m2mp3": "满的_zh4f.mp3"
+        }
+    ],
+    "src": "https://disk.17121.top/"
+}

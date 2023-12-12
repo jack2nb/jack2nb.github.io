@@ -1,0 +1,264 @@
+ var dataFromJSON =  {
+    "data": [
+        {
+            "en": "sad",
+            "zh": "悲伤",
+            "img": "悲伤.png",
+            "en4m2mp3": "悲伤_en4f.mp3",
+            "zh4m2mp3": "悲伤_zh4f.mp3"
+        },
+        {
+            "en": "scared",
+            "zh": "害怕",
+            "img": "害怕.png",
+            "en4m2mp3": "害怕_en4f.mp3",
+            "zh4m2mp3": "害怕_zh4f.mp3"
+        },
+        {
+            "en": "scarf",
+            "zh": "围巾",
+            "img": "围巾.png",
+            "en4m2mp3": "围巾_en4f.mp3",
+            "zh4m2mp3": "围巾_zh4f.mp3"
+        },
+        {
+            "en": "science",
+            "zh": "科学",
+            "img": "科学.png",
+            "en4m2mp3": "科学_en4f.mp3",
+            "zh4m2mp3": "科学_zh4f.mp3"
+        },
+        {
+            "en": "sea",
+            "zh": "大海",
+            "img": "大海.png",
+            "en4m2mp3": "大海_en4f.mp3",
+            "zh4m2mp3": "大海_zh4f.mp3"
+        },
+        {
+            "en": "September",
+            "zh": "九月",
+            "img": "九月.png",
+            "en4m2mp3": "九月_en4f.mp3",
+            "zh4m2mp3": "九月_zh4f.mp3"
+        },
+        {
+            "en": "shape",
+            "zh": "形状",
+            "img": "形状.png",
+            "en4m2mp3": "形状_en4f.mp3",
+            "zh4m2mp3": "形状_zh4f.mp3"
+        },
+        {
+            "en": "sheep",
+            "zh": "绵羊",
+            "img": "绵羊.png",
+            "en4m2mp3": "绵羊_en4f.mp3",
+            "zh4m2mp3": "绵羊_zh4f.mp3"
+        },
+        {
+            "en": "ship",
+            "zh": "船",
+            "img": "船.png",
+            "en4m2mp3": "船_en4f.mp3",
+            "zh4m2mp3": "船_zh4f.mp3"
+        },
+        {
+            "en": "shooting",
+            "zh": "射击",
+            "img": "射击.png",
+            "en4m2mp3": "射击_en4f.mp3",
+            "zh4m2mp3": "射击_zh4f.mp3"
+        },
+        {
+            "en": "short",
+            "zh": "矮的",
+            "img": "矮的.png",
+            "en4m2mp3": "矮的_en4f.mp3",
+            "zh4m2mp3": "矮的_zh4f.mp3"
+        },
+        {
+            "en": "shy",
+            "zh": "害羞",
+            "img": "害羞.png",
+            "en4m2mp3": "害羞_en4f.mp3",
+            "zh4m2mp3": "害羞_zh4f.mp3"
+        },
+        {
+            "en": "singer",
+            "zh": "歌手",
+            "img": "歌手.png",
+            "en4m2mp3": "歌手_en4f.mp3",
+            "zh4m2mp3": "歌手_zh4f.mp3"
+        },
+        {
+            "en": "sister",
+            "zh": "姐妹",
+            "img": "姐妹.png",
+            "en4m2mp3": "姐妹_en4f.mp3",
+            "zh4m2mp3": "姐妹_zh4f.mp3"
+        },
+        {
+            "en": "skirt",
+            "zh": "裙子",
+            "img": "裙子.png",
+            "en4m2mp3": "裙子_en4f.mp3",
+            "zh4m2mp3": "裙子_zh4f.mp3"
+        },
+        {
+            "en": "sky",
+            "zh": "天空",
+            "img": "天空.png",
+            "en4m2mp3": "天空_en4f.mp3",
+            "zh4m2mp3": "天空_zh4f.mp3"
+        },
+        {
+            "en": "sleepy",
+            "zh": "困得",
+            "img": "困得.png",
+            "en4m2mp3": "困得_en4f.mp3",
+            "zh4m2mp3": "困得_zh4f.mp3"
+        },
+        {
+            "en": "slow",
+            "zh": "慢的",
+            "img": "慢的.png",
+            "en4m2mp3": "慢的_en4f.mp3",
+            "zh4m2mp3": "慢的_zh4f.mp3"
+        },
+        {
+            "en": "small",
+            "zh": "小的",
+            "img": "小的.png",
+            "en4m2mp3": "小的_en4f.mp3",
+            "zh4m2mp3": "小的_zh4f.mp3"
+        },
+        {
+            "en": "snake",
+            "zh": "蛇",
+            "img": "蛇.png",
+            "en4m2mp3": "蛇_en4f.mp3",
+            "zh4m2mp3": "蛇_zh4f.mp3"
+        },
+        {
+            "en": "snow",
+            "zh": "雪",
+            "img": "雪.png",
+            "en4m2mp3": "雪_en4f.mp3",
+            "zh4m2mp3": "雪_zh4f.mp3"
+        },
+        {
+            "en": "soccer",
+            "zh": "足球",
+            "img": "足球.png",
+            "en4m2mp3": "足球_en4f.mp3",
+            "zh4m2mp3": "足球_zh4f.mp3"
+        },
+        {
+            "en": "soft",
+            "zh": "软的",
+            "img": "软的.png",
+            "en4m2mp3": "软的_en4f.mp3",
+            "zh4m2mp3": "软的_zh4f.mp3"
+        },
+        {
+            "en": "spider",
+            "zh": "蜘蛛",
+            "img": "蜘蛛.png",
+            "en4m2mp3": "蜘蛛_en4f.mp3",
+            "zh4m2mp3": "蜘蛛_zh4f.mp3"
+        },
+        {
+            "en": "spring",
+            "zh": "春天",
+            "img": "春天.png",
+            "en4m2mp3": "春天_en4f.mp3",
+            "zh4m2mp3": "春天_zh4f.mp3"
+        },
+        {
+            "en": "square",
+            "zh": "正方形",
+            "img": "正方形.png",
+            "en4m2mp3": "正方形_en4f.mp3",
+            "zh4m2mp3": "正方形_zh4f.mp3"
+        },
+        {
+            "en": "stand",
+            "zh": "站立",
+            "img": "站立.png",
+            "en4m2mp3": "站立_en4f.mp3",
+            "zh4m2mp3": "站立_zh4f.mp3"
+        },
+        {
+            "en": "star",
+            "zh": "五角星",
+            "img": "五角星.png",
+            "en4m2mp3": "五角星_en4f.mp3",
+            "zh4m2mp3": "五角星_zh4f.mp3"
+        },
+        {
+            "en": "stop",
+            "zh": "停止",
+            "img": "停止.png",
+            "en4m2mp3": "停止_en4f.mp3",
+            "zh4m2mp3": "停止_zh4f.mp3"
+        },
+        {
+            "en": "strawberry",
+            "zh": "草莓",
+            "img": "草莓.png",
+            "en4m2mp3": "草莓_en4f.mp3",
+            "zh4m2mp3": "草莓_zh4f.mp3"
+        },
+        {
+            "en": "strong",
+            "zh": "强壮的",
+            "img": "强壮的.png",
+            "en4m2mp3": "强壮的_en4f.mp3",
+            "zh4m2mp3": "强壮的_zh4f.mp3"
+        },
+        {
+            "en": "studio",
+            "zh": "工作室",
+            "img": "工作室.png",
+            "en4m2mp3": "工作室_en4f.mp3",
+            "zh4m2mp3": "工作室_zh4f.mp3"
+        },
+        {
+            "en": "summer",
+            "zh": "夏天",
+            "img": "夏天.png",
+            "en4m2mp3": "夏天_en4f.mp3",
+            "zh4m2mp3": "夏天_zh4f.mp3"
+        },
+        {
+            "en": "Sun",
+            "zh": "太阳",
+            "img": "太阳.png",
+            "en4m2mp3": "太阳_en4f.mp3",
+            "zh4m2mp3": "太阳_zh4f.mp3"
+        },
+        {
+            "en": "Sunday",
+            "zh": "星期天",
+            "img": "星期天.png",
+            "en4m2mp3": "星期天_en4f.mp3",
+            "zh4m2mp3": "星期天_zh4f.mp3"
+        },
+        {
+            "en": "sunny",
+            "zh": "晴天",
+            "img": "晴天.png",
+            "en4m2mp3": "晴天_en4f.mp3",
+            "zh4m2mp3": "晴天_zh4f.mp3"
+        },
+        {
+            "en": "supermarket",
+            "zh": "超市",
+            "img": "超市.png",
+            "en4m2mp3": "超市_en4f.mp3",
+            "zh4m2mp3": "超市_zh4f.mp3"
+        }
+    ],
+    "src": "https://disk.17121.top/"
+}

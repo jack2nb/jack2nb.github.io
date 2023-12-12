@@ -1,0 +1,117 @@
+ var dataFromJSON =  {
+    "data": [
+        {
+            "en": "magic",
+            "zh": "魔幻的",
+            "img": "魔幻的.png",
+            "en4m2mp3": "魔幻的_en4f.mp3",
+            "zh4m2mp3": "魔幻的_zh4f.mp3"
+        },
+        {
+            "en": "map",
+            "zh": "地图",
+            "img": "地图.png",
+            "en4m2mp3": "地图_en4f.mp3",
+            "zh4m2mp3": "地图_zh4f.mp3"
+        },
+        {
+            "en": "Mars",
+            "zh": "火星",
+            "img": "火星.png",
+            "en4m2mp3": "火星_en4f.mp3",
+            "zh4m2mp3": "火星_zh4f.mp3"
+        },
+        {
+            "en": "math",
+            "zh": "数学",
+            "img": "数学.png",
+            "en4m2mp3": "数学_en4f.mp3",
+            "zh4m2mp3": "数学_zh4f.mp3"
+        },
+        {
+            "en": "May",
+            "zh": "五月",
+            "img": "五月.png",
+            "en4m2mp3": "五月_en4f.mp3",
+            "zh4m2mp3": "五月_zh4f.mp3"
+        },
+        {
+            "en": "me",
+            "zh": "我",
+            "img": "我.png",
+            "en4m2mp3": "我_en4f.mp3",
+            "zh4m2mp3": "我_zh4f.mp3"
+        },
+        {
+            "en": "Mercury",
+            "zh": "水星",
+            "img": "水星.png",
+            "en4m2mp3": "水星_en4f.mp3",
+            "zh4m2mp3": "水星_zh4f.mp3"
+        },
+        {
+            "en": "Monday",
+            "zh": "星期一",
+            "img": "星期一.png",
+            "en4m2mp3": "星期一_en4f.mp3",
+            "zh4m2mp3": "星期一_zh4f.mp3"
+        },
+        {
+            "en": "monster",
+            "zh": "怪物",
+            "img": "怪物.png",
+            "en4m2mp3": "怪物_en4f.mp3",
+            "zh4m2mp3": "怪物_zh4f.mp3"
+        },
+        {
+            "en": "mother",
+            "zh": "母亲",
+            "img": "母亲.png",
+            "en4m2mp3": "母亲_en4f.mp3",
+            "zh4m2mp3": "母亲_zh4f.mp3"
+        },
+        {
+            "en": "mountain",
+            "zh": "山",
+            "img": "山.png",
+            "en4m2mp3": "山_en4f.mp3",
+            "zh4m2mp3": "山_zh4f.mp3"
+        },
+        {
+            "en": "mouse",
+            "zh": "老鼠",
+            "img": "老鼠.png",
+            "en4m2mp3": "老鼠_en4f.mp3",
+            "zh4m2mp3": "老鼠_zh4f.mp3"
+        },
+        {
+            "en": "mouth",
+            "zh": "嘴巴",
+            "img": "嘴巴.png",
+            "en4m2mp3": "嘴巴_en4f.mp3",
+            "zh4m2mp3": "嘴巴_zh4f.mp3"
+        },
+        {
+            "en": "mummy",
+            "zh": "木乃伊",
+            "img": "木乃伊.png",
+            "en4m2mp3": "木乃伊_en4f.mp3",
+            "zh4m2mp3": "木乃伊_zh4f.mp3"
+        },
+        {
+            "en": "museum",
+            "zh": "博物馆",
+            "img": "博物馆.png",
+            "en4m2mp3": "博物馆_en4f.mp3",
+            "zh4m2mp3": "博物馆_zh4f.mp3"
+        },
+        {
+            "en": "music",
+            "zh": "音乐",
+            "img": "音乐.png",
+            "en4m2mp3": "音乐_en4f.mp3",
+            "zh4m2mp3": "音乐_zh4f.mp3"
+        }
+    ],
+    "src": "https://disk.17121.top/"
+}

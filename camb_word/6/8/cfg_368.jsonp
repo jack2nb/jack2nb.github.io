@@ -1,0 +1,89 @@
+ var dataFromJSON =  {
+    "data": [
+        {
+            "en": "indigo",
+            "zh": "靛蓝",
+            "img": "靛蓝.png",
+            "en4m2mp3": "靛蓝_en4f.mp3",
+            "zh4m2mp3": "靛蓝_zh4f.mp3"
+        },
+        {
+            "en": "island",
+            "zh": "岛屿",
+            "img": "岛屿.png",
+            "en4m2mp3": "岛屿_en4f.mp3",
+            "zh4m2mp3": "岛屿_zh4f.mp3"
+        },
+        {
+            "en": "jacket",
+            "zh": "茄克衫",
+            "img": "茄克衫.png",
+            "en4m2mp3": "茄克衫_en4f.mp3",
+            "zh4m2mp3": "茄克衫_zh4f.mp3"
+        },
+        {
+            "en": "January",
+            "zh": "一月",
+            "img": "一月.png",
+            "en4m2mp3": "一月_en4f.mp3",
+            "zh4m2mp3": "一月_zh4f.mp3"
+        },
+        {
+            "en": "jeans",
+            "zh": "牛仔裤",
+            "img": "牛仔裤.png",
+            "en4m2mp3": "牛仔裤_en4f.mp3",
+            "zh4m2mp3": "牛仔裤_zh4f.mp3"
+        },
+        {
+            "en": "job",
+            "zh": "工作",
+            "img": "工作.png",
+            "en4m2mp3": "工作_en4f.mp3",
+            "zh4m2mp3": "工作_zh4f.mp3"
+        },
+        {
+            "en": "judo",
+            "zh": "柔道",
+            "img": "柔道.png",
+            "en4m2mp3": "柔道_en4f.mp3",
+            "zh4m2mp3": "柔道_zh4f.mp3"
+        },
+        {
+            "en": "July",
+            "zh": "七月",
+            "img": "七月.png",
+            "en4m2mp3": "七月_en4f.mp3",
+            "zh4m2mp3": "七月_zh4f.mp3"
+        },
+        {
+            "en": "jump",
+            "zh": "跳",
+            "img": "跳.png",
+            "en4m2mp3": "跳_en4f.mp3",
+            "zh4m2mp3": "跳_zh4f.mp3"
+        },
+        {
+            "en": "June",
+            "zh": "六月",
+            "img": "六月.png",
+            "en4m2mp3": "六月_en4f.mp3",
+            "zh4m2mp3": "六月_zh4f.mp3"
+        },
+        {
+            "en": "king",
+            "zh": "国王",
+            "img": "国王.png",
+            "en4m2mp3": "国王_en4f.mp3",
+            "zh4m2mp3": "国王_zh4f.mp3"
+        },
+        {
+            "en": "knight",
+            "zh": "骑士",
+            "img": "骑士.png",
+            "en4m2mp3": "骑士_en4f.mp3",
+            "zh4m2mp3": "骑士_zh4f.mp3"
+        }
+    ],
+    "src": "https://disk.17121.top/"
+}
