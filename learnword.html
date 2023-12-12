@@ -408,7 +408,7 @@
 
                 var st = document.createElement("script");
                 st.id = 'dataFromJson';
-                st.src = `//${src}/${pvs.type}/${pvs.rpid.substring(pvs.rpid.length - 2, pvs.rpid.length - 1)}/${pvs.rpid.substring(pvs.rpid.length - 1)}/cfg_${pvs.pid}.jsonp`
+                st.src = `//${src}/${pvs.type}/${pvs.rpid.substring(pvs.rpid.length - 2, pvs.rpid.length - 1)}/${pvs.rpid.substring(pvs.rpid.length - 1)}/cfg_${pvs.pid}.js`
 
 
                 st.onerror = that.signErr;
@@ -421,7 +421,7 @@
                 that.spto(1) //loading 
                 //leftList  加载
                 var wl = document.createElement("script");
-                wl.src = `//${src}/${pvs.type}/word_list.jsonp`
+                wl.src = `//${src}/${pvs.type}/word_list.js`
                 wl.onload = that.leftListLoad;
                 document.body.appendChild(wl);
             }
