@@ -1,1 +1,176 @@
-hello
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>灯塔English导航 </title>
+  <link rel="stylesheet" crossorigin="anonymous"
+    href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.1/css/bootstrap.min.css">
+
+
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css" rel="stylesheet" />
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta name="description" content="导航页面 英语学习 培训机构 多邻国 " />
+  <meta name=" keywords" content="每天说英语 英语学习 5分钟学10个单词轻轻松松">
+
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+    }
+
+    main {
+      flex-basis: auto;
+      flex-grow: 1;
+      padding: 2rem 0;
+      background-image: radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255, 255, 255, 0.50) 47%, rgba(0, 0, 0, 0.50) 100%);
+      background-blend-mode: screen;
+    }
+
+    header {
+      /*背景*/
+      background: linear-gradient(to right bottom, #40a5a5, #054e4e);
+
+    }
+
+    [v-cloak] {
+      display: none;
+    }
+  </style>
+
+</head>
+
+<body>
+  <header class=" text-white      ">
+    <div class=" container-fluid        ">
+      <div class="py-3 row justify-content-around ">
+        <h1 class="pt-3 ">
+          <div>英语<h6>每天说，5分钟学10个。一年学3650个常用单词</h6>
+          </div>
+        </h1>
+        <div class="pt-3 d-flex align-items-end ">
+          <a class=" text-danger border border-danger p-1 rounded"> 喜欢收藏 </a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="  container-fluid  ">
+    <div class="  ">
+      <div class="ui basic segment">
+        <h4 class=" my-4  ui horizontal divider header"><i class="code icon"></i>常用词500个</h4>
+        <div class=" pl-5  d-flex justify-items-around  ui     cards">
+          {{#en500word}}
+          <a class=" card" href="http://eng.17121.top/learnword.html?t=en500word&p={{f}}" target="_blank">
+            <div class="content">
+              <i class="left floated   code icon"></i>
+              <div class="header">第{{f}}课</div>
+              <div class="meta">学习：{{content}}</div>
+            </div>
+          </a>
+          {{/en500word}}
+          {{^en500wordShowAll}} 
+          <a class=" card" onclick="oui.showAll('en500wordShowAll')" target="_blank">
+            <div class="content">
+              <div class="header">查看更多</div>
+              <div class="meta">点击来到学习界面</div>
+            </div>
+          </a>
+          {{/en500wordShowAll}}
+        </div>
+      </div>
+
+      <div class="ui basic  ">
+        <h4 class="my-4   ui horizontal divider header"><i class="  cap icon"></i>单词A-Z</h4>
+        <div class="pl-5  container-fluid    ui  cards">
+          {{#whithAZ}}
+          <a class="card" href="http://eng.17121.top/learnword.html?t=camb_word&p={{f}}" target="_blank">
+            <div class="content">
+              <i class="left floated    smile icon"></i>
+              <div class="header">第{{f}}课</div>
+              <div class="meta">共：{{ct}}个单词</div>
+            </div>
+          </a>
+          {{/whithAZ}}
+          {{^camb_wordShowAll}} 
+          <a class=" card" onclick="oui.showAll('camb_wordShowAll')" target="_blank">
+            <div class="content">
+              <div class="header">查看更多</div>
+              <div class="meta">点击来到学习界面</div>
+            </div>
+          </a>
+          {{/camb_wordShowAll}}
+
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <footer>
+    <div class=" row py-3 justify-content-center ">Powered by &nbsp; <a class="ui  "> 每天说英语 </a> &nbsp; </div>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/3.2.0/mustache.min.js"></script>
+  <script src="./en500word/word_list.jsonp"></script>
+  <script> var en500word = wordList; </script>
+  <script src="./camb_word/word_list.jsonp"></script>
+  <script> var camb_word = wordList; </script>
+  <!---Mustache-->
+
+  <script type="text/javascript">
+    const gd = {};//全局数据 解决调用引用问题
+    gd.reg = {}
+    const pvs = {}; //变量代理访问
+    class pgui {
+      /* 界面控制类 初始化界面默认值 */
+      constructor(arg) {
+        //初始（值）
+        //----页面参数
+        gd.reg.ui = this//全局资源
+        this.en500wordShowAll = 0 //显示全部
+        this.camb_wordShowAll = 0 //显示全部
+        
+        this.emt = document.querySelector('main')  //元素
+        this.tpl = this.emt.innerHTML //模板
+      }
+      showTpl() {
+        const ui = gd.reg.ui
+
+        //列表数据
+        var lsDat = {
+          "en500word": ui.en500wordShowAll == 1 ? en500word['data'] : en500word['data'].slice(0, 10),
+          "en500wordShowAll":ui.en500wordShowAll ,
+     
+          'whithAZ': ui.camb_wordShowAll == 1 ? camb_word['data'] : camb_word['data'].slice(0, 4), 
+          "camb_wordShowAll":ui.camb_wordShowAll
+        }
+
+        var hs = Mustache.render(ui.tpl , lsDat)//模板替换
+
+        //写入
+        ui.emt.innerHTML = hs
+      }
+      showAll(show){
+        const ui = gd.reg.ui
+        ui[show]  = 1
+        ui.showTpl()
+      }
+    }
+    const oui = new pgui(); //界面更改"方法"
+    oui.showTpl()
+  </script>
+
+
+  <script>
+
+    /* 鼠标聚焦时，回车事件 */
+    //点击喜欢
+
+  </script>
+
+</body>
+
+</html>
