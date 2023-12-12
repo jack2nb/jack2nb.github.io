@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>µÆËşEnglishµ¼º½ </title>
+  <title>ç¯å¡”Englishå¯¼èˆª </title>
   <link rel="stylesheet" crossorigin="anonymous"
     href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.1/css/bootstrap.min.css">
 
@@ -12,8 +12,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-  <meta name="description" content="µ¼º½Ò³Ãæ Ó¢ÓïÑ§Ï° ÅàÑµ»ú¹¹ ¶àÁÚ¹ú " />
-  <meta name=" keywords" content="Ã¿ÌìËµÓ¢Óï Ó¢ÓïÑ§Ï° 5·ÖÖÓÑ§10¸öµ¥´ÊÇáÇáËÉËÉ">
+  <meta name="description" content="å¯¼èˆªé¡µé¢ è‹±è¯­å­¦ä¹  åŸ¹è®­æœºæ„ å¤šé‚»å›½ " />
+  <meta name=" keywords" content="æ¯å¤©è¯´è‹±è¯­ è‹±è¯­å­¦ä¹  5åˆ†é’Ÿå­¦10ä¸ªå•è¯è½»è½»æ¾æ¾">
 
   <style>
     body {
@@ -30,7 +30,7 @@
     }
 
     header {
-      /*±³¾°*/
+      /*èƒŒæ™¯*/
       background: linear-gradient(to right bottom, #40a5a5, #054e4e);
 
     }
@@ -47,11 +47,11 @@
     <div class=" container-fluid        ">
       <div class="py-3 row justify-content-around ">
         <h1 class="pt-3 ">
-          <div>Ó¢Óï<h6>Ã¿ÌìËµ£¬5·ÖÖÓÑ§10¸ö¡£Ò»ÄêÑ§3650¸ö³£ÓÃµ¥´Ê</h6>
+          <div>è‹±è¯­<h6>æ¯å¤©è¯´ï¼Œ5åˆ†é’Ÿå­¦10ä¸ªã€‚ä¸€å¹´å­¦3650ä¸ªå¸¸ç”¨å•è¯</h6>
           </div>
         </h1>
         <div class="pt-3 d-flex align-items-end ">
-          <a class=" text-danger border border-danger p-1 rounded"> Ï²»¶ÊÕ²Ø </a>
+          <a class=" text-danger border border-danger p-1 rounded"> å–œæ¬¢æ”¶è— </a>
         </div>
       </div>
     </div>
@@ -60,22 +60,22 @@
   <main class="  container-fluid  ">
     <div class="  ">
       <div class="ui basic segment">
-        <h4 class=" my-4  ui horizontal divider header"><i class="code icon"></i>³£ÓÃ´Ê500¸ö</h4>
+        <h4 class=" my-4  ui horizontal divider header"><i class="code icon"></i>å¸¸ç”¨è¯500ä¸ª</h4>
         <div class=" pl-5  d-flex justify-items-around  ui     cards">
           {{#en500word}}
           <a class=" card" href="http://eng.17121.top/learnword.html?t=en500word&p={{f}}" target="_blank">
             <div class="content">
               <i class="left floated   code icon"></i>
-              <div class="header">µÚ{{f}}¿Î</div>
-              <div class="meta">Ñ§Ï°£º{{content}}</div>
+              <div class="header">ç¬¬{{f}}è¯¾</div>
+              <div class="meta">å­¦ä¹ ï¼š{{content}}</div>
             </div>
           </a>
           {{/en500word}}
           {{^en500wordShowAll}} 
           <a class=" card" onclick="oui.showAll('en500wordShowAll')" target="_blank">
             <div class="content">
-              <div class="header">²é¿´¸ü¶à</div>
-              <div class="meta">µã»÷À´µ½Ñ§Ï°½çÃæ</div>
+              <div class="header">æŸ¥çœ‹æ›´å¤š</div>
+              <div class="meta">ç‚¹å‡»æ¥åˆ°å­¦ä¹ ç•Œé¢</div>
             </div>
           </a>
           {{/en500wordShowAll}}
@@ -83,22 +83,22 @@
       </div>
 
       <div class="ui basic  ">
-        <h4 class="my-4   ui horizontal divider header"><i class="  cap icon"></i>µ¥´ÊA-Z</h4>
+        <h4 class="my-4   ui horizontal divider header"><i class="  cap icon"></i>å•è¯A-Z</h4>
         <div class="pl-5  container-fluid    ui  cards">
           {{#whithAZ}}
           <a class="card" href="http://eng.17121.top/learnword.html?t=camb_word&p={{f}}" target="_blank">
             <div class="content">
               <i class="left floated    smile icon"></i>
-              <div class="header">µÚ{{f}}¿Î</div>
-              <div class="meta">¹²£º{{ct}}¸öµ¥´Ê</div>
+              <div class="header">ç¬¬{{f}}è¯¾</div>
+              <div class="meta">å…±ï¼š{{ct}}ä¸ªå•è¯</div>
             </div>
           </a>
           {{/whithAZ}}
           {{^camb_wordShowAll}} 
           <a class=" card" onclick="oui.showAll('camb_wordShowAll')" target="_blank">
             <div class="content">
-              <div class="header">²é¿´¸ü¶à</div>
-              <div class="meta">µã»÷À´µ½Ñ§Ï°½çÃæ</div>
+              <div class="header">æŸ¥çœ‹æ›´å¤š</div>
+              <div class="meta">ç‚¹å‡»æ¥åˆ°å­¦ä¹ ç•Œé¢</div>
             </div>
           </a>
           {{/camb_wordShowAll}}
@@ -110,7 +110,7 @@
   </main>
 
   <footer>
-    <div class=" row py-3 justify-content-center ">Powered by &nbsp; <a class="ui  "> Ã¿ÌìËµÓ¢Óï </a> &nbsp; </div>
+    <div class=" row py-3 justify-content-center ">Powered by &nbsp; <a class="ui  "> æ¯å¤©è¯´è‹±è¯­ </a> &nbsp; </div>
   </footer>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/3.2.0/mustache.min.js"></script>
@@ -121,25 +121,25 @@
   <!---Mustache-->
 
   <script type="text/javascript">
-    const gd = {};//È«¾ÖÊı¾İ ½â¾öµ÷ÓÃÒıÓÃÎÊÌâ
+    const gd = {};//å…¨å±€æ•°æ® è§£å†³è°ƒç”¨å¼•ç”¨é—®é¢˜
     gd.reg = {}
-    const pvs = {}; //±äÁ¿´úÀí·ÃÎÊ
+    const pvs = {}; //å˜é‡ä»£ç†è®¿é—®
     class pgui {
-      /* ½çÃæ¿ØÖÆÀà ³õÊ¼»¯½çÃæÄ¬ÈÏÖµ */
+      /* ç•Œé¢æ§åˆ¶ç±» åˆå§‹åŒ–ç•Œé¢é»˜è®¤å€¼ */
       constructor(arg) {
-        //³õÊ¼£¨Öµ£©
-        //----Ò³Ãæ²ÎÊı
-        gd.reg.ui = this//È«¾Ö×ÊÔ´
-        this.en500wordShowAll = 0 //ÏÔÊ¾È«²¿
-        this.camb_wordShowAll = 0 //ÏÔÊ¾È«²¿
+        //åˆå§‹ï¼ˆå€¼ï¼‰
+        //----é¡µé¢å‚æ•°
+        gd.reg.ui = this//å…¨å±€èµ„æº
+        this.en500wordShowAll = 0 //æ˜¾ç¤ºå…¨éƒ¨
+        this.camb_wordShowAll = 0 //æ˜¾ç¤ºå…¨éƒ¨
         
-        this.emt = document.querySelector('main')  //ÔªËØ
-        this.tpl = this.emt.innerHTML //Ä£°å
+        this.emt = document.querySelector('main')  //å…ƒç´ 
+        this.tpl = this.emt.innerHTML //æ¨¡æ¿
       }
       showTpl() {
         const ui = gd.reg.ui
 
-        //ÁĞ±íÊı¾İ
+        //åˆ—è¡¨æ•°æ®
         var lsDat = {
           "en500word": ui.en500wordShowAll == 1 ? en500word['data'] : en500word['data'].slice(0, 10),
           "en500wordShowAll":ui.en500wordShowAll ,
@@ -148,9 +148,9 @@
           "camb_wordShowAll":ui.camb_wordShowAll
         }
 
-        var hs = Mustache.render(ui.tpl , lsDat)//Ä£°åÌæ»»
+        var hs = Mustache.render(ui.tpl , lsDat)//æ¨¡æ¿æ›¿æ¢
 
-        //Ğ´Èë
+        //å†™å…¥
         ui.emt.innerHTML = hs
       }
       showAll(show){
@@ -159,15 +159,15 @@
         ui.showTpl()
       }
     }
-    const oui = new pgui(); //½çÃæ¸ü¸Ä"·½·¨"
+    const oui = new pgui(); //ç•Œé¢æ›´æ”¹"æ–¹æ³•"
     oui.showTpl()
   </script>
 
 
   <script>
 
-    /* Êó±ê¾Û½¹Ê±£¬»Ø³µÊÂ¼ş */
-    //µã»÷Ï²»¶
+    /* é¼ æ ‡èšç„¦æ—¶ï¼Œå›è½¦äº‹ä»¶ */
+    //ç‚¹å‡»å–œæ¬¢
 
   </script>
 
